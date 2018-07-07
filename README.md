@@ -1,1 +1,1 @@
-test repo for https://pages.github.com
+test repo for https://leonardo98.github.io/match3/ (https://pages.github.com)
